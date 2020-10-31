@@ -1,7 +1,7 @@
 num = 407
 
 
-
+#num=407 fixed value
 if num > 1:
   
    for i in range(2,num):
